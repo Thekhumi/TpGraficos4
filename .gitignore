@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+scoreManager/\.vs/
+
+scoreManager/Debug/
+
+scoreManager/scoreManager/Debug/
